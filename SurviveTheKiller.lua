@@ -1,5 +1,3 @@
--- ChairWare for Survive The Killer
-
 _KFTm7zkyW2E5Dz2K, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
