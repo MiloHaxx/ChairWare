@@ -1,5 +1,5 @@
 
-
+print("Dragging UI")
 local UserInputService = game:GetService("UserInputService")
 local gui = script.Parent
 
