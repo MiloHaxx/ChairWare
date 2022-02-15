@@ -1,11 +1,11 @@
 # ChairWare
 Official repository for ChairWare, a powerful script/exploit hub for Roblox!
 
-Supported Games:
+**Supported Games:**
 
 -Survive The Killer
 
-Supported Exploits:
+**Supported Exploits:**
 
 -Synapse X
 -KRNL
