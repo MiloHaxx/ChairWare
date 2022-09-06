@@ -1,1 +1,1 @@
-print("No server for now")
+return
