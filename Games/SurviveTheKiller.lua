@@ -23,7 +23,7 @@ if syn then
     }),
     })
 else
-    setclipboard(cringediscord)
+    setclipboard("discord.gg/"..cringediscord)
     game.StarterGui:SetCore("SendNotification",{Title="Discord",Text="Copied invite to clipboard, please join!"})
 end
 return
