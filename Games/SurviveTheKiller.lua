@@ -24,6 +24,6 @@ if syn then
     })
 else
     setclipboard(cringediscord)
-    game.StarterGui:SetCore("SendNotification",{Title="Discord",Text="Copied to invite clipboard, please join!"})
+    game.StarterGui:SetCore("SendNotification",{Title="Discord",Text="Copied invite to clipboard, please join!"})
 end
 return
